@@ -1,4 +1,4 @@
-openresty  --ver 1.0
+OpenResty Lua Snippets  --ver 1.0
 =========
 
 Powerful OpenResty develop plugin for sublime text 2/3
