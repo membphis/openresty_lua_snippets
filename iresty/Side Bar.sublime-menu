@@ -1,0 +1,41 @@
+[{ "caption": "-", "id": "quickx" },
+{
+    "caption": "New Lua File",
+    "id": "new_lua_file",
+    "command": "lua_new_file",
+    "args": {
+        "dirs": []
+    }
+},
+{
+    "caption": "Create New Project",
+    "id": "create_new_project",
+    "command": "quickx_create_new_project",
+    "args": {
+        "dirs": []
+    }
+},
+{
+    "caption": "Run With Player",
+    "id": "run_with_player",
+    "command": "quickx_run_with_player",
+    "args": {
+        "dirs": []
+    }
+},
+{
+    "caption": "Compile Scripts",
+    "id": "compile_scripts",
+    "command": "quickx_compile_scripts",
+    "args": {
+        "dirs": []
+    }
+},
+{
+    "caption": "Rebuild User Definition",
+    "id": "rebuild_user_definition",
+    "command": "quickx_rebuild_user_definition",
+    "args": {
+        "dirs": []
+    }
+}]
